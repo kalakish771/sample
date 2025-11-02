@@ -19,10 +19,10 @@
 <section>
     <h2>Favourite Food</h2>
     <ul>
-        <li> Chole Bhature</li>
+        <li> lebanese food</li>
         <li> Ice Cream</li>
-        <li> Parathe</li>
-        <li> Gulab Jamun</li>
+        <li> grilled meat</li>
+        <li> tabbuli salad</li>
     </ul>
 </section>
 <section>
@@ -40,11 +40,11 @@
 <section>
     <h2>More About Me</h2>
     <details>
-        <summary>My Childhood</summary>I grew up in Mumbai.I lived in a small house and I really miss the fun which I had back then.
+        <summary>My Childhood</summary>I grew up in southern lebanon.I lived in a middle house and I really miss the fun which I had back then.
     </details>
 </section>
 <footer>
-    <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WebDesign">
+
     this page was created by me
     To learn more about web design, visit
     <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
