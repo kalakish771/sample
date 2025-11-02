@@ -45,7 +45,7 @@
 </section>
 <footer>
     <img src="http://www.intro-webdesign.com/images/newlogo.png" alt="WebDesign">
-    this page was created by Priyanshu Singh & Colleen can Lent
+    this page was created by me
     To learn more about web design, visit
     <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
 </footer>
