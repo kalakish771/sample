@@ -44,10 +44,7 @@
     </details>
 </section>
 <footer>
-
-    this page was created by me
-    To learn more about web design, visit
-    <a href="http://www.intro-webdesign.com/">Intro to Web Design</a>
+  this page was created by me hawraa kalakish
 </footer>
     
 </body>
