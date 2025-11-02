@@ -41,6 +41,7 @@
     <h2>More About Me</h2>
     <details>
         <summary>My Childhood</summary>I grew up in southern lebanon.I lived in a middle house and I really miss the fun which I had back then.
+        <img src="https://en.wikipedia.org/wiki/File:Anqounwiki1.jpg" alt="My Beloved Village">
     </details>
 </section>
 <footer>
